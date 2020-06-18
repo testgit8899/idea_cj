@@ -11,9 +11,6 @@ public class UserController {
         System.out.println("这是右侧的代码打印");
         int i =100;
         System.out.println("变量为：===="+i);
-    }
-
-    public static void main(String[] args) {
         System.out.println("这是左侧的代码打印效果");
     }
 }
