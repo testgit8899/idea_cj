@@ -6,4 +6,8 @@ package com.offcn;
  * @Description:
  */
 public class UserController {
+
+    public static void main(String[] args) {
+        System.out.println("这是左侧的代码打印效果");
+    }
 }
